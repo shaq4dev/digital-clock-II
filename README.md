@@ -1,3 +1,3 @@
 # digital-clock-II
 Digital Clock with cool background
-shaq4dev.github.io/digital-clock-ii
+Https://www.shaq4dev.github.io/digital-clock-ii
